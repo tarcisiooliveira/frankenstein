@@ -1,0 +1,2 @@
+# rails-frankenstein
+Frankenstein project
